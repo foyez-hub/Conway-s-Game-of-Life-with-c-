@@ -115,6 +115,7 @@ int main(){
 		for (int j = 0; j <m; j++)
 		{
 			mat[i][j]=' ';
+			//me
 		}
 	  }
 	  int indexi=n/2;
